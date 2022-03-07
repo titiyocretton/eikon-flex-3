@@ -18,7 +18,7 @@ html {
   color: var(--black);
   font-size: 1em;
   height: 100%;
-  background: var(--yellow);
+  background: var(--green);
 }
 
 body {
@@ -30,7 +30,7 @@ h1 {
   text-transform: uppercase;
   margin: 0;
   font-weight: 800;
-  color: var(--yellow);
+  color: var(--green);
 }
 
 h2 {
