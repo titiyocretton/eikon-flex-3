@@ -119,7 +119,6 @@ section:last-child {
   border: 4px dashed var(--black);
   box-sizing: border-box;
   background: var(--white);
-  background-image: url(../img/bg-grid.png);
   background-position: center center;
   background-repeat: repeat;
 }
