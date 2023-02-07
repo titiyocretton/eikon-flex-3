@@ -58,8 +58,18 @@ order: 1;
   align-self: flex-start;
 }
 
+/* 7. exercice-all-in-1 */
+.exercice-all-in-1 .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
 
-/* 8. exercice-all-in-2 */
+.exercice-all-in-1 .element-blue {
+  order: -1;
+  align-self: flex-start;
+}
 
 
 /* 8. exercice-margin-auto */
