@@ -34,7 +34,14 @@ order: 1;
 }
 
 /* 5. exercice-align-self-1*/
+.exercice-align-self-1 .container {
+  display: flex;
+  flex-direction: row-reverse;
+}
 
+.exercice-align-self-1 .element-yellow {
+  align-self: flex-end;
+}
 
 /* 6. exercice-align-self-2*/
 
