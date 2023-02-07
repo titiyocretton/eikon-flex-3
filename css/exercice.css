@@ -44,9 +44,19 @@ order: 1;
 }
 
 /* 6. exercice-align-self-2*/
+.exercice-align-self-2 .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
+.exercice-align-self-2 .element-yellow {
+  align-self: flex-end;
+}
 
-/* 7. exercice-all-in-1 */
+.exercice-align-self-2 .element-blue {
+  align-self: flex-start;
+}
 
 
 /* 8. exercice-all-in-2 */
