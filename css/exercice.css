@@ -71,6 +71,18 @@ order: 1;
   align-self: flex-start;
 }
 
+/* 8. exercice-all-in-2 */
+.exercice-all-in-2 .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 
-/* 8. exercice-margin-auto */
+.exercice-all-in-2 .element-pink {
+  align-self: flex-start;
+}
+
+.exercice-all-in-2 .element-blue {
+  order: 1;
+}
 
